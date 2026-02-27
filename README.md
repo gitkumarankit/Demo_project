@@ -1,2 +1,3 @@
 # Demo_project
-This is about some Linux information
+This is my first repository 
+Author ankit_mathur
